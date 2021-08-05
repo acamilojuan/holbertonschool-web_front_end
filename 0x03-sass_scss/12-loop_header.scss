@@ -1,5 +1,5 @@
 /* Using loop for headers */
-@for $head_level from 1 to 5 {
+@for $head_level from 1 to 6 {
     h#{$head_level} {
         font-size: #{$head_level}px;
     }
